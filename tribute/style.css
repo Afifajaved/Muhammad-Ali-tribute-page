@@ -1,0 +1,28 @@
+body {
+  background: rgba(203, 223, 231, 0.938);
+}
+
+header {
+  background: rgba(239, 245, 243, 0.76);
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  align-items: flex-start;
+}
+
+/* #image {
+  max-width: 100%;
+  max-height: auto;
+  display: block;
+} */
+
+#image {
+  margin: auto;
+}
+
+p {
+  flex-wrap: wrap;
+  flex: 1;
+}
